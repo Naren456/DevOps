@@ -42,7 +42,7 @@ Enter a number (or 'q' to quit):
 
 Explaination :
 
-It is a simple while loop program which takes input and give input based on it.
+It is a simple while loop program which takes input and give output based on it.
 
 case 1
 when you press q : it break the program
