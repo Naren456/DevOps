@@ -7,7 +7,6 @@ df -h
 ps > process.log
 
 
-date
 
 
 
